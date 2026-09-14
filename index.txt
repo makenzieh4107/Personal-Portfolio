@@ -2,14 +2,14 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
+alt = Makenzie Hall
+Makenzie Hall
 Web developer
 
 Show Contacts
 
 Email
-richard@example.com
+makenzie@example.com
 
 Phone
 +1 (213) 352-2795
