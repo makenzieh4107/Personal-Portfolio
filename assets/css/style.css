@@ -985,6 +985,22 @@ main {
 
 .project-item > a { width: 100%; }
 
+.project-icon-box {
+  width: 54px;
+  height: 54px;
+  margin-bottom: 15px;
+  border: 1px solid rgba(59, 130, 246, 0.18);
+  border-radius: 14px;
+  background: linear-gradient(135deg, rgba(37, 99, 235, 0.12), rgba(16, 185, 129, 0.12));
+  color: hsl(211, 88%, 58%);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 26px;
+}
+
+.project-icon-box ion-icon { --ionicon-stroke-width: 22px; }
+
 .project-img {
   position: relative;
   width: 100%;
